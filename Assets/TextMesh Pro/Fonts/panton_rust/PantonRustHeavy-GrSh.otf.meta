@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b6c0de37e515b0e458b849d7b80857af
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Panton Rust Heavy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 05bdaf37c9f0ca44fba93807ccff69e2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8da9a6e7b3f453e4b96a433fd7a9b203
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Panton Rust Script SemiBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1c1170abe2a309249815154ed34a4d31, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
